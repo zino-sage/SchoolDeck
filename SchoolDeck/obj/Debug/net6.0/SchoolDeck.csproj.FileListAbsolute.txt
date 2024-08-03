@@ -25,3 +25,10 @@ C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\SchoolDeck.
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\SchoolDeck.genruntimeconfig.cache
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\ref\SchoolDeck.dll
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\LoggerService.dll
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\SchoolDeck.csproj.CopyComplete
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\NLog.dll
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\Contracts.dll
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\Contracts.pdb

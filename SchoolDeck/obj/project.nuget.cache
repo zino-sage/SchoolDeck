@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "JKP0/ihDFwe+J4ItSY55ccR7P7F1nY5wPHMxAmyxGQyJzvVVf4wv6otbdxkQ5poNPgFROUBcGv/gdFHN4KeVkg==",
+  "dgSpecHash": "xcSy/VjLUCkhI3Qf3RaxapFbI2pgwJ01TXtN+lpZfXGnPZyNsD419C2TWxN4b0Ocn3PAZ2NYgJ0WKoWLI570Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fintrak\\Desktop\\Proj\\SchoolDeck\\SchoolDeck\\SchoolDeck.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\nlog.extensions.logging\\5.3.11\\nlog.extensions.logging.5.3.11.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fintrak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
