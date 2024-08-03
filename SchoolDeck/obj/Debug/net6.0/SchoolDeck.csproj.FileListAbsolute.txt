@@ -24,3 +24,4 @@ C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\refint\Scho
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\SchoolDeck.pdb
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\SchoolDeck.genruntimeconfig.cache
 C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\obj\Debug\net6.0\ref\SchoolDeck.dll
+C:\Users\Fintrak\Desktop\Proj\SchoolDeck\SchoolDeck\bin\Debug\net6.0\appsettings.Production.json
