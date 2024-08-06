@@ -10,7 +10,7 @@ namespace LoggerService
 {
     public class LoggerManager: ILoggerManager
     {
-
+        //Implement every method in the interface i.e Contracts project
         private static ILogger logger = LogManager.GetCurrentClassLogger();
         public LoggerManager()
         {
