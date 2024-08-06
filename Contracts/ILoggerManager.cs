@@ -8,6 +8,7 @@ namespace Contracts
 {
     public interface ILoggerManager
     {
+        // houses all the methodes 
         void LogInfo(string message);
         void LogWarning(string message);
         void LogDebug(string message);
